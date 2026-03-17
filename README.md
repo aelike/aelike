@@ -1,15 +1,15 @@
-## Hi there 👋
+# Hi there 👋
 
 I'm Misha, and I'm a second year student studying my BCom specializing in a **Combined Major in Business & Computer Science** at UBC.
 
-# Things I know: 
+## Things I know: 
 Java, C++, R, and a bit of Python.
 
-# Cool stuff I built:
+## Cool stuff I built:
 - A "OS" using Swing that actually looks good
 - An 'x that tracks 'y'
 
-# Things I am working on:
+## Things I am working on:
 - Canvas and Google Calendar integration
 - A network/gmail visualizer (Nodeify)
 - A trading bot
