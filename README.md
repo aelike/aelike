@@ -1,6 +1,7 @@
 # Hi there 👋
 
 I'm Misha, and I'm a second year student studying my BCom specializing in a **Combined Major in Business & Computer Science** at UBC.
+My goal is to bridge the gap between CS and Business with functional projects, and with building learning experience.
 
 ## Things I know: 
 Java, C++, R, and a bit of Python.
@@ -11,6 +12,7 @@ Java, C++, R, and a bit of Python.
 
 ## Things I am working on:
 - Canvas and Google Calendar integration
+- Bringing full frontend functionality for one of the projects I've worked on, moving past Swing and utilizing a more modern framework.
 - A network/gmail visualizer (Nodeify)
 - A trading bot
 
